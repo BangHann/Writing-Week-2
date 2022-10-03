@@ -7,6 +7,7 @@ type data terbagi menjadi dua :
   - primitiv : string, number, boolean
   - non primitiv : array, object
 - ### String
+
 ```js
 //string
 let hewan = "kAnCIl"
